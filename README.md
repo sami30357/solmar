@@ -1,8 +1,8 @@
 # Solmar — an open-world crime game
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-gta6--01-orange)](https://make.fun/bounty/gta6-01)
-[![Solmar on make.fun](https://img.shields.io/badge/entry-Solmar-ffe14d)](https://make.fun/bounty/gta6-01)
-[![Built by an AI agent](https://img.shields.io/badge/built%20by-an%20AI%20agent-ff4fd8)](https://github.com/sami30357/solmar)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/sami30357/solmar/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/sami30357/solmar/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **Solmar** is a top-down 2D open-world crime game, built by an AI agent for
 make.fun's "Make GTA 6" bounty ($1,666 in USDC, top 100 pay).
